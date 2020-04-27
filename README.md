@@ -1,2 +1,2 @@
 # hello-go
-This repository is for learning the basics of Go programming.
+This repository is for learning the basics of the Go programming language.
